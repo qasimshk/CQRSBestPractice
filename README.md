@@ -1,6 +1,7 @@
 # Instructions
 - Setup the database by changing the details in json file.
 - Functionality can be tested simply by running the tests, without any db integration
+- Setup folder path in log4net.config for logs. Use log4view to view log. ( http://www.log4view.com/log4view/ )
 
 # API Requests
 
