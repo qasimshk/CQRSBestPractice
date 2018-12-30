@@ -12,7 +12,7 @@
 ## POST
 - https://localhost:44332/api/Student/Register
 
-cmd>  {
+  {
         "FirstName":"Swat",
         "LastName":"Kats",
         "Email":"SK@abc.com",
@@ -22,7 +22,7 @@ cmd>  {
 ## PUT
 - https://localhost:44332/api/Student/Update/1
 
-cmd>  {
+  {
         "FirstName":"turbo",
         "LastName":"Kat jet"
       }
@@ -30,7 +30,6 @@ cmd>  {
 ## PATCH
 - https://localhost:44332/api/Student/1
 
-cmd> 
 [
  {
     "op": "replace",
